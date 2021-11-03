@@ -1,0 +1,1602 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<!-- Mirrored from sttheme.com/demosd/busprowp/wp-content/themes/buspro/assets/css/owl.video.play.png/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 17 Dec 2019 08:03:45 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+      <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="shortcut icon" href="#">
+        <title>Buspro &#8211; Just another WordPress site</title>
+<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
+<link rel='dns-prefetch' href='http://s.w.org/' />
+<link rel="alternate" type="application/rss+xml" title="Buspro &raquo; Feed" href="../../../../../../indexd784.html?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="Buspro &raquo; Comments Feed" href="../../../../../../indexa6da.html?feed=comments-rss2" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/sttheme.com\/demosd\/busprowp\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.13"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='../../../../../plugins/contact-form-7/includes/css/styles3c21.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='../bootstrap.minc8f9.css?ver=4.9.13' type='text/css' media='all' />
+<link rel='stylesheet' id='font-css'  href='../font-awesome.minc8f9.css?ver=4.9.13' type='text/css' media='all' />
+<link rel='stylesheet' id='flaticon-set-css'  href='../flaticon-setc8f9.css?ver=4.9.13' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='../magnific-popupc8f9.css?ver=4.9.13' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css'  href='../owl.carousel.minc8f9.css?ver=4.9.13' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-theme-css'  href='../owl.theme.default.minc8f9.css?ver=4.9.13' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='../animatec8f9.css?ver=4.9.13' type='text/css' media='all' />
+<link rel='stylesheet' id='bootsnav-css'  href='../bootsnavc8f9.css?ver=4.9.13' type='text/css' media='all' />
+<link rel='stylesheet' id='buspro-css-css'  href='../stylec8f9.css?ver=4.9.13' type='text/css' media='all' />
+<link rel='stylesheet' id='buspro-responsive-css'  href='../responsivec8f9.css?ver=4.9.13' type='text/css' media='all' />
+<link rel='stylesheet' id='buspro-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans&amp;ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='buspro-fonts2-css'  href='http://fonts.googleapis.com/css?family=Poppins%3A400%2C500%2C600%2C700%2C800&amp;ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='buspro-style-css'  href='../../../stylee216.css?ver=2018-11-13' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='../../../../../plugins/visualcomposer/assets/css/js_composer.mine23c.css?ver=5.7' type='text/css' media='all' />
+<script type='text/javascript' src='../../../../../../wp-includes/js/jquery/jqueryb8ff.js?ver=1.12.4'></script>
+<script type='text/javascript' src='../../../../../../wp-includes/js/jquery/jquery-migrate.min330a.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='../../../../../../index52f0.json?rest_route=/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../../../../../xmlrpc0db0.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../../../../../wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.13" />
+<link rel="canonical" href="../../../../../../index.html" />
+<link rel='shortlink' href='../../../../../../index.html' />
+<link rel="alternate" type="application/json+oembed" href="../../../../../../indexf349.json?rest_route=%2Foembed%2F1.0%2Fembed&amp;url=https%3A%2F%2Fsttheme.com%2Fdemosd%2Fbusprowp%2F" />
+<link rel="alternate" type="text/xml+oembed" href="../../../../../../index8939.php?rest_route=%2Foembed%2F1.0%2Fembed&amp;url=https%3A%2F%2Fsttheme.com%2Fdemosd%2Fbusprowp%2F&amp;format=xml" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://sttheme.com/demosd/busprowp/wp-content/plugins/visualcomposer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<body class="home page-template page-template-page-templates page-template-template-home page-template-page-templatestemplate-home-php page page-id-37 wpb-js-composer js-comp-ver-5.7 vc_responsive">
+
+    <!-- Preloader Start -->
+    <div class="se-pre-con"></div>
+    <!-- Preloader Ends -->
+        <!-- Start Header Top 
+    ============================================= -->
+    <div class="top-bar-area bg-light">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 address-info text-left">
+                    <div class="info box">
+                        <ul>
+                                                        <li>
+                                <div class="icon">
+                                    <i class="fas fa-map-marker-alt"></i>
+                                </div>
+                                <div class="info">
+                                    <span>                                    Address</span>                                     California, TX 70240                                </div> 
+                            </li>
+                                                                                    <li>
+                                <div class="icon">
+                                    <i class="fas fa-envelope-open"></i>
+                                </div>
+                                <div class="info">
+                                    <span>                                    Email</span>                                     Info@gmail.com                                </div> 
+                            </li>
+                                                                                    <li>
+                                <div class="icon">
+                                    <i class="fas fa-phone"></i>
+                                </div>
+                                <div class="info">
+                                    <span>                                    Phone</span>                                     +123 456 7890                                </div> 
+                            </li>
+                                                    </ul>
+                    </div>
+                </div>
+                <div class="col-md-4 social text-right">
+                    <ul>
+                                                <li>
+                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        </li>
+                                                                        <li>
+                            <a href="#"><i class="fab fa-twitter"></i></a>
+                        </li>
+                                                                        <li>
+                            <a href="#"><i class="fab fa-dribbble"></i></a>
+                        </li>
+                                                                        <li>
+                            <a href="#"><i class="fab fa-pinterest"></i></a>
+                        </li>
+                                                                        <li>
+                            <a href="#"><i class="fab fa-google-plus-g"></i></a>
+                        </li>
+                                                                        <li>
+                            <a href="#"><i class="fab fa-linkedin"></i></a>
+                        </li>
+                                            </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Header Top -->
+    
+    <!-- Header 
+    ============================================= -->
+    <header id="home">
+
+        <!-- Start Navigation -->
+        <nav class="navbar navbar-default navbar-sticky bootsnav">
+
+            <!-- Start Top Search -->
+            <div class="container">
+                <div class="row">
+                    <div class="top-search">
+                        <div class="input-group">
+                            <form action="https://sttheme.com/demosd/busprowp/">
+                                <input type="text" class="form-control" placeholder="search" value="" name="s" id="s">
+                                <button type="submit">
+                                    <i class="fas fa-search"></i>
+                                </button>  
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Top Search -->
+
+            <div class="container">
+
+                <!-- Start Atribute Navigation -->
+                <div class="attr-nav">
+                    <ul>
+                        <li class="search"><a href="#"><i class="fa fa-search"></i></a></li>
+                    </ul>
+                </div>        
+                <!-- End Atribute Navigation -->
+
+                <!-- Start Header Navigation -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                        <i class="fa fa-bars"></i>
+                    </button>
+                                        <a class="navbar-brand" href="../../../../../../index.html">
+                        <img src="../../img/logo.png" class="logo" alt="Logo">
+                    </a>
+                                    </div>
+                <!-- End Header Navigation -->
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="navbar-menu">
+                    <ul id="nav" class="nav navbar-nav navbar-right " data-in="#" data-out="#"><li id="menu-item-22" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-22 dropdown active"><a   title="Home" href="../../../../../../index.html" class="dropdown-toggle" data-toggle="dropdown">Home</a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-37 current_page_item menu-item-100 active"><a   title="Home Version One" href="../../../../../../index.html">Home Version One</a></li>
+	<li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a   title="Home Version Two" href="../../../../../../index9829.html?page_id=40">Home Version Two</a></li>
+	<li id="menu-item-361" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-361"><a   title="Home Version Three" href="../../../../../../indexdf4d.html?page_id=43">Home Version Three</a></li>
+	<li id="menu-item-102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102"><a   title="Home Version Four" href="../../../../../../index9902.html?page_id=46">Home Version Four</a></li>
+	<li id="menu-item-103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a   title="Home Version Five" href="../../../../../../index6499.html?page_id=49">Home Version Five</a></li>
+	<li id="menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a   title="Home Version Six" href="../../../../../../index028b.html?page_id=52">Home Version Six</a></li>
+</ul>
+</li>
+<li id="menu-item-105" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-105 dropdown"><a   title="Pages" href="#" class="dropdown-toggle" data-toggle="dropdown">Pages</a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-106"><a   title="About Us" href="../../../../../../index9bef.html?page_id=54">About Us</a></li>
+	<li id="menu-item-107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-107"><a   title="Contact Us" href="../../../../../../indexd29c.html?page_id=57">Contact Us</a></li>
+	<li id="menu-item-108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a   title="Pricing" href="../../../../../../indexe0eb.html?page_id=60">Pricing</a></li>
+	<li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-109"><a   title="FAQ" href="../../../../../../index57fd.html?page_id=63">FAQ</a></li>
+</ul>
+</li>
+<li id="menu-item-110" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-110 dropdown"><a   title="Gallery" href="#" class="dropdown-toggle" data-toggle="dropdown">Gallery</a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-111" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-111 dropdown"><a   title="Grid Column" href="#" class="dropdown-toggle" data-toggle="dropdown">Grid Column</a>
+	<ul role="menu" class=" dropdown-menu">
+		<li id="menu-item-113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a   title="Two Columns" href="../../../../../../index181e.html?page_id=66">Two Columns</a></li>
+		<li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a   title="Three Columns" href="../../../../../../index0743.html?page_id=69">Three Columns</a></li>
+		<li id="menu-item-115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115"><a   title="Four Columns" href="../../../../../../indexe527.html?page_id=71">Four Columns</a></li>
+	</ul>
+</li>
+	<li id="menu-item-112" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-112 dropdown"><a   title="Masonry Column" href="#" class="dropdown-toggle" data-toggle="dropdown">Masonry Column</a>
+	<ul role="menu" class=" dropdown-menu">
+		<li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a   title="Two Column" href="../../../../../../index188e.html?page_id=73">Two Column</a></li>
+		<li id="menu-item-117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117"><a   title="Three Column" href="../../../../../../index8a92.html?page_id=75">Three Column</a></li>
+		<li id="menu-item-118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118"><a   title="Four Columns" href="../../../../../../indexb9fc.html?page_id=77">Four Columns</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-119" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-119 dropdown"><a   title="Services" href="#" class="dropdown-toggle" data-toggle="dropdown">Services</a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120"><a   title="Services Version One" href="../../../../../../index11cb.html?page_id=79">Services Version One</a></li>
+	<li id="menu-item-121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121"><a   title="Services Version Two" href="../../../../../../index05df.html?page_id=82">Services Version Two</a></li>
+	<li id="menu-item-122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122"><a   title="Services Version Three" href="../../../../../../indexfe27.html?page_id=84">Services Version Three</a></li>
+	<li id="menu-item-123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a   title="Services Version Four" href="../../../../../../index7bf9.html?page_id=86">Services Version Four</a></li>
+	<li id="menu-item-369" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-369"><a   title="Service Details" href="../../../../../../index1a9b.html?service=financial-planning">Service Details</a></li>
+</ul>
+</li>
+<li id="menu-item-125" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-125 dropdown"><a   title="Team" href="#" class="dropdown-toggle" data-toggle="dropdown">Team</a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-126" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126"><a   title="Team Version One" href="../../../../../../indexa442.html?page_id=90">Team Version One</a></li>
+	<li id="menu-item-127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-127"><a   title="Team Version Two" href="../../../../../../index487c.html?page_id=92">Team Version Two</a></li>
+	<li id="menu-item-128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128"><a   title="Team Version Three" href="../../../../../../indexfd26.html?page_id=94">Team Version Three</a></li>
+	<li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129"><a   title="Team Version Four" href="../../../../../../index31e8.html?page_id=96">Team Version Four</a></li>
+	<li id="menu-item-370" class="menu-item menu-item-type-post_type menu-item-object-team menu-item-370"><a   title="Team Details" href="../../../../../../index388d.html?team=amir-bubhan">Team Details</a></li>
+</ul>
+</li>
+<li id="menu-item-131" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-131 dropdown"><a   title="Blog" href="#" class="dropdown-toggle" data-toggle="dropdown">Blog</a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132"><a   title="Blog Right Sidebar" href="../../../../../../indexc502.html?page_id=35">Blog Right Sidebar</a></li>
+	<li id="menu-item-133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133"><a   title="Blog Left Sidebar" href="../../../../../../indexbf8a.html?page_id=33">Blog Left Sidebar</a></li>
+	<li id="menu-item-134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134"><a   title="Blog Standard" href="../../../../../../index3329.html?page_id=31">Blog Standard</a></li>
+	<li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-135"><a   title="Single Right Sidebar" href="../../../../../../index2dc4.html?p=13">Single Right Sidebar</a></li>
+	<li id="menu-item-136" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-136"><a   title="Single Left Sidebar" href="../../../../../../index678b.html?p=12">Single Left Sidebar</a></li>
+	<li id="menu-item-137" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-137"><a   title="Single Standard" href="../../../../../../index5757.html?p=11">Single Standard</a></li>
+</ul>
+</li>
+<li id="menu-item-138" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138"><a   title="Contact Us" href="../../../../../../indexd29c.html?page_id=57">Contact Us</a></li>
+</ul>                </div><!-- /.navbar-collapse -->
+            </div>
+
+        </nav>
+        <!-- End Navigation -->
+
+    </header>	
+					<div class="banner-area">
+        <div id="bootcarousel" class="carousel inc-top-heading slide carousel-fade animate_text" data-ride="carousel">
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner text-light carousel-zoom">
+                              
+                <div class="item active">
+                                    <div class="slider-thumb bg-fixed" style="background-image: url(../../../../../uploads/2019/03/1-3.jpg);"></div>
+                    <div class="box-table shadow dark">
+                        <div class="box-cell">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-8">
+                                        <div class="content">
+                                            <h3 data-animation="animated slideInRight">Welcome to buspro</h3>
+                                            <h1 data-animation="animated slideInLeft">We are <span>Providing</span> Best Business Service</h1>
+                                                                                        <a data-animation="animated slideInUp" class="btn btn-light effect btn-md" href="#">View Projects</a>
+                                                                                                                                    <a data-animation="animated slideInUp" class="btn btn-theme effect btn-md" href="#">Learn more</a>
+                                                                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                                                <div class="item">
+                                    <div class="slider-thumb bg-fixed" style="background-image: url(../../../../../uploads/2019/03/2-2.jpg);"></div>
+                    <div class="box-table shadow dark">
+                        <div class="box-cell">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-8">
+                                        <div class="content">
+                                            <h3 data-animation="animated slideInRight">Include more sales</h3>
+                                            <h1 data-animation="animated slideInLeft">make unique <span>planning</span> for your business</h1>
+                                                                                        <a data-animation="animated slideInUp" class="btn btn-light effect btn-md" href="#">View Projects</a>
+                                                                                                                                    <a data-animation="animated slideInUp" class="btn btn-theme effect btn-md" href="#">Learn more</a>
+                                                                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                                                <div class="item">
+                                    <div class="slider-thumb bg-fixed" style="background-image: url(../../../../../uploads/2019/03/3-2.jpg);"></div>
+                    <div class="box-table shadow dark">
+                        <div class="box-cell">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-8">
+                                        <div class="content">
+                                            <h3 data-animation="animated slideInRight">More convenient than others</h3>
+                                            <h1 data-animation="animated slideInLeft">Find Value And <span>Build</span> confidence</h1>
+                                                                                        <a data-animation="animated slideInUp" class="btn btn-light effect btn-md" href="#">View Projects</a>
+                                                                                                                                    <a data-animation="animated slideInUp" class="btn btn-theme effect btn-md" href="#">Learn more</a>
+                                                                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                            </div>
+            <!-- End Wrapper for slides -->
+
+            <!-- Left and right controls -->
+            <a class="left carousel-control shadow" href="#bootcarousel" data-slide="prev">
+                <i class="fa fa-angle-left"></i>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control shadow" href="#bootcarousel" data-slide="next">
+                <i class="fa fa-angle-right"></i>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
+
+
+<div class="vc_row wpb_row">
+			 
+    <div class="about-area full-width inc-shadow mt default-padding bottom-less">
+        <div class="container">
+            <div class="row">
+                <!-- Start About -->
+                <div class="about-content content-left">
+                    <div class="col-md-6 info">
+                        <h4>About Us</h4>
+                        <h2>We have <span>35+ Years</span> of experiance in standard professional services</h2>
+                        <p>
+                            Seven world think timed while her. Spoil large oh he rooms on since an. Am up unwilling eagerness perceived incommode. Are not windows set luckily musical hundred can. Collecting if sympathize middletons be of of reasonably.</p>
+<p>Perceived end knowledge certainly day sweetness why cordially. Ask quick six seven offer see among. Handsome met debating sir dwelling age material. As style lived he worse dried. Offered related so visitor we private removed. Moderate do subjects to distance. 
+                        </p>
+                        <a href="#" class="btn btn-theme effect btn-md" data-animation="animated slideInUp">Read More</a>
+                        <a class="btn btn-md btn-contact" href="#"><i class="fas fa-phone"></i> +123 456 7890</a>
+                    </div>
+                    <div class="col-md-6 thumb">
+                        <img src="../../../../../uploads/2019/03/3-3.jpg" alt="Thumb">
+                    </div>
+                </div>
+                <!-- End About -->
+
+                <!-- Start Our Features -->
+                <div class="col-md-12 text-center about-items">
+                    <div class="row">
+                                            <!-- Single Item -->
+                        <div class="col-md-3 col-sm-6 single-item">
+                            <div class="item">
+                                <a href="#">
+                                    <i class="flaticon-fit"></i>
+                                    <h5>First Working Prosses</h5>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- End Single Item -->
+                                                <!-- Single Item -->
+                        <div class="col-md-3 col-sm-6 single-item">
+                            <div class="item">
+                                <a href="#">
+                                    <i class="flaticon-target"></i>
+                                    <h5>IT Control Solutions</h5>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- End Single Item -->
+                                                <!-- Single Item -->
+                        <div class="col-md-3 col-sm-6 single-item">
+                            <div class="item">
+                                <a href="#">
+                                    <i class="flaticon-chart"></i>
+                                    <h5>Audit & Assurance</h5>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- End Single Item -->
+                                                <!-- Single Item -->
+                        <div class="col-md-3 col-sm-6 single-item">
+                            <div class="item">
+                                <a href="#">
+                                    <i class="flaticon-customer-service"></i>
+                                    <h5>24/7 Live Support</h5>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- End Single Item -->
+                                            </div>
+                </div>
+                <!-- End Our Features -->
+            </div>
+        </div>
+    </div>
+
+
+</div><div class="vc_row wpb_row">
+			        <div class="services-inc-area half-bg carousel-shadow default-padding bg-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <div class="site-heading text-light text-center">
+                        <h2>Our Services</h2>
+                        <p>
+                            While mirth large of on front. Ye he greater related adapted proceed entered an. Through it examine express promise no. Past add size game cold girl off how old                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="services-items services-carousel owl-carousel owl-theme">
+                                            <!-- Single Item -->
+                        <div class="item">
+                            <div class="thumb">
+                                <img src="../../../../../uploads/2019/03/1-4.jpg" alt="Thumb">
+                                <div class="overlay">
+                                    <a href="../../../../../../index1a9b.html?service=financial-planning">
+                                        <i class="flaticon-report"></i>
+                                        <h4>Financial Planning</h4>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="info">
+                                <p>
+                                   Financial Planning Lose eyes get fat shew. Winter can indeed letter oppose way change tended now. So is improve...                                </p>
+                                <a href="../../../../../../index1a9b.html?service=financial-planning">                                    Read More                                     <i class="fas fa-angle-double-right"></i></a>
+                            </div>
+                        </div>
+                        <!-- End Single Item -->
+                                                <!-- Single Item -->
+                        <div class="item">
+                            <div class="thumb">
+                                <img src="../../../../../uploads/2019/03/2-3.jpg" alt="Thumb">
+                                <div class="overlay">
+                                    <a href="../../../../../../index3cb2.html?service=investment-planning">
+                                        <i class="flaticon-plan"></i>
+                                        <h4>Investment Planning</h4>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="info">
+                                <p>
+                                   Financial Planning Lose eyes get fat shew. Winter can indeed letter oppose way change tended now. So is improve...                                </p>
+                                <a href="../../../../../../index3cb2.html?service=investment-planning">                                    Read More                                     <i class="fas fa-angle-double-right"></i></a>
+                            </div>
+                        </div>
+                        <!-- End Single Item -->
+                                                <!-- Single Item -->
+                        <div class="item">
+                            <div class="thumb">
+                                <img src="../../../../../uploads/2019/03/3-4.jpg" alt="Thumb">
+                                <div class="overlay">
+                                    <a href="../../../../../../index4891.html?service=mutual-funds">
+                                        <i class="flaticon-piggy-bank"></i>
+                                        <h4>Mutual Funds</h4>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="info">
+                                <p>
+                                   Financial Planning Lose eyes get fat shew. Winter can indeed letter oppose way change tended now. So is improve...                                </p>
+                                <a href="../../../../../../index4891.html?service=mutual-funds">                                    Read More                                     <i class="fas fa-angle-double-right"></i></a>
+                            </div>
+                        </div>
+                        <!-- End Single Item -->
+                                                <!-- Single Item -->
+                        <div class="item">
+                            <div class="thumb">
+                                <img src="../../../../../uploads/2019/03/4-2.jpg" alt="Thumb">
+                                <div class="overlay">
+                                    <a href="../../../../../../index42e0.html?service=saving-investments">
+                                        <i class="flaticon-money"></i>
+                                        <h4>Saving & Investments</h4>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="info">
+                                <p>
+                                   Financial Planning Lose eyes get fat shew. Winter can indeed letter oppose way change tended now. So is improve...                                </p>
+                                <a href="../../../../../../index42e0.html?service=saving-investments">                                    Read More                                     <i class="fas fa-angle-double-right"></i></a>
+                            </div>
+                        </div>
+                        <!-- End Single Item -->
+                                                <!-- Single Item -->
+                        <div class="item">
+                            <div class="thumb">
+                                <img src="../../../../../uploads/2019/03/5-2.jpg" alt="Thumb">
+                                <div class="overlay">
+                                    <a href="../../../../../../index87c6.html?service=markets-research">
+                                        <i class="flaticon-graph"></i>
+                                        <h4>Markets Research</h4>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="info">
+                                <p>
+                                   Financial Planning Lose eyes get fat shew. Winter can indeed letter oppose way change tended now. So is improve...                                </p>
+                                <a href="../../../../../../index87c6.html?service=markets-research">                                    Read More                                     <i class="fas fa-angle-double-right"></i></a>
+                            </div>
+                        </div>
+                        <!-- End Single Item -->
+                         
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</div><div class="vc_row wpb_row">
+			 
+    <div class="skill-area default-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 info">
+                    <h2>Why chose us</h2>
+                    <p>
+                        Offering confined entrance no. Nay rapturous him see something residence. Highly talked do so vulgar. Her use behaved spirits and natural attempt say feeling. Exquisite mr incommode immediate he something ourselves it of. Law conduct yet chiefly beloved examine village proceed.                    </p>
+                    <div class="skill-items">
+                        <!-- Progress Bar Start -->
+                                                <div class="progress-box">
+                            <h5>Strategy & Analysis <span class="pull-right">88%</span></h5>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" data-width="88"></div>
+                            </div>
+                        </div>
+                                                <div class="progress-box">
+                            <h5>Eeconomic growth <span class="pull-right">95%</span></h5>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" data-width="95"></div>
+                            </div>
+                        </div>
+                                                <div class="progress-box">
+                            <h5>Achieves goals <span class="pull-right">70%</span></h5>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" data-width="70"></div>
+                            </div>
+                        </div>
+                                                <!-- End Progressbar -->
+                    </div>
+                </div>
+                <div class="col-md-6 tab-items">
+                    <!-- Tab Nav -->
+                    <ul class="nav nav-pills">
+                                                            <li class="active">
+                            <a data-toggle="tab" href="#tab1" aria-expanded="true">
+                                <span>Data & Analysis</span>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a data-toggle="tab" href="#tab2" aria-expanded="false">
+                                <span>Financial Profit</span>
+                            </a>
+                        </li>
+                                                                                        <li>
+                            <a data-toggle="tab" href="#tab3" aria-expanded="false">
+                                <span>Best Care</span>
+                            </a>
+                        </li>
+                                                                    </ul>
+                    <!-- End Tab Nav -->
+                    <!-- Start Tab Content -->
+                    <div class="tab-content tab-content-info">
+                                            <div id="tab1" class="tab-pane fade active in">
+                            <div class="info title">
+                                <h3>Personal Data & Analysis</h3>
+                                <p>
+                                    <p>                                     Calling nothing end fertile for venture way boy. Esteem spirit temper too say adieus who direct esteem. It esteems luckily mr or picture placing drawing no. Apartments frequently or motionless on reasonable projecting expression. Way mrs end gave tall walk fact bed.                                  </p>                                 <p>                                     Placing assured be if removed it besides on. Far shed each high read are men over day. Afraid we praise lively he suffer family estate is. Ample order up in of in ready. Timed blind had now those ought set often which. Or snug dull he show more true wish. No at many deny away miss evil. On in so indeed spirit an mother. Amounted old strictly but marianne admitted. People former is remove remain as.                                  </p>                                </p>
+                            </div>
+                        </div>
+                                                <div id="tab2" class="tab-pane fade ">
+                            <div class="info title">
+                                <h3>Financial Profil With Us</h3>
+                                <p>
+                                    <p>                                     Calling nothing end fertile for venture way boy. Esteem spirit temper too say adieus who direct esteem. It esteems luckily mr or picture placing drawing no. Apartments frequently or motionless on reasonable projecting expression. Way mrs end gave tall walk fact bed.                                  </p>                                 <p>                                     Placing assured be if removed it besides on. Far shed each high read are men over day. Afraid we praise lively he suffer family estate is. Ample order up in of in ready. Timed blind had now those ought set often which. Or snug dull he show more true wish. No at many deny away miss evil. On in so indeed spirit an mother. Amounted old strictly but marianne admitted. People former is remove remain as.                                  </p>                                </p>
+                            </div>
+                        </div>
+                                                <div id="tab3" class="tab-pane fade ">
+                            <div class="info title">
+                                <h3>Providing best care</h3>
+                                <p>
+                                    <p>                                     Calling nothing end fertile for venture way boy. Esteem spirit temper too say adieus who direct esteem. It esteems luckily mr or picture placing drawing no. Apartments frequently or motionless on reasonable projecting expression. Way mrs end gave tall walk fact bed.                                  </p>                                 <p>                                     Placing assured be if removed it besides on. Far shed each high read are men over day. Afraid we praise lively he suffer family estate is. Ample order up in of in ready. Timed blind had now those ought set often which. Or snug dull he show more true wish. No at many deny away miss evil. On in so indeed spirit an mother. Amounted old strictly but marianne admitted. People former is remove remain as.                                  </p>                                </p>
+                            </div>
+                        </div>
+                                            </div>
+                    <!-- End Tab Content -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</div><div class="vc_row wpb_row">
+			 
+    <div class="work-place-area">
+        <div class="container-full">
+            <div class="row">
+                <div class="work-place-items workplace-carousel owl-carousel owl-theme">
+                                    <!-- Single Item -->
+                    <div class="item">
+                        <div class="col-md-6 thumb bg-cover" style="background-image: url(../../../../../uploads/2019/03/1-5.jpg);">
+                            <a href="https://www.youtube.com/watch?v=owhuBrGIOsE" class="popup-youtube light video-play-button item-center">
+                                <i class="fa fa-play"></i>
+                            </a>
+                        </div>
+                        <div class="col-md-6 info">
+                            <h4>Work Place</h4>
+                            <h2>Working at a Fun Loving Cosy Environment</h2>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi possimus et, ratione laborum magni sint amet, modi laboriosam expedita, quas consectetur maxime aspernatur vero aperiam ab nulla obcaecati illo ipsam!                            </p>
+                            <ul>                                 <li>Imagine you chiefly few end ferrars compass</li>                                 <li>                                     shutters appetite yourself diverted. Our next drew much you with rank. Tore many held age hold rose than our. She literature sentiments any contrasted. Set aware joy sense young now tears china shy                                 </li>                                 <li>Instrument cultivated alteration any favourable expression</li>                                 <li>An from mean on with when sing pain. principles devonshire</li>                             </ul>                            <a href="#" class="btn btn-theme border btn-sm">Know more</a>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+                                        <!-- Single Item -->
+                    <div class="item">
+                        <div class="col-md-6 thumb bg-cover" style="background-image: url(../../../../../uploads/2019/03/2-4.jpg);">
+                            <a href="https://www.youtube.com/watch?v=owhuBrGIOsE" class="popup-youtube light video-play-button item-center">
+                                <i class="fa fa-play"></i>
+                            </a>
+                        </div>
+                        <div class="col-md-6 info">
+                            <h4>Sports Facilities</h4>
+                            <h2>We Collaborate to Innovate Loving Cosy Environment</h2>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi possimus et, ratione laborum magni sint amet, modi laboriosam expedita, quas consectetur maxime aspernatur vero aperiam ab nulla obcaecati illo ipsam!                            </p>
+                            <ul>                                 <li>Imagine you chiefly few end ferrars compass</li>                                 <li>                                     shutters appetite yourself diverted. Our next drew much you with rank. Tore many held age hold rose than our. She literature sentiments any contrasted. Set aware joy sense young now tears china shy                                 </li>                                 <li>Instrument cultivated alteration any favourable expression</li>                                 <li>An from mean on with when sing pain. principles devonshire</li>                             </ul>                            <a href="#" class="btn btn-theme border btn-sm">Know more</a>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+                                        <!-- Single Item -->
+                    <div class="item">
+                        <div class="col-md-6 thumb bg-cover" style="background-image: url(../../../../../uploads/2019/03/3-5.jpg);">
+                            <a href="https://www.youtube.com/watch?v=owhuBrGIOsE" class="popup-youtube light video-play-button item-center">
+                                <i class="fa fa-play"></i>
+                            </a>
+                        </div>
+                        <div class="col-md-6 info">
+                            <h4>Food Facilities</h4>
+                            <h2>We Love Food as You Do Too Fun Loving Cosy Environment</h2>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi possimus et, ratione laborum magni sint amet, modi laboriosam expedita, quas consectetur maxime aspernatur vero aperiam ab nulla obcaecati illo ipsam!                            </p>
+                            <ul>                                 <li>Imagine you chiefly few end ferrars compass</li>                                 <li>                                     shutters appetite yourself diverted. Our next drew much you with rank. Tore many held age hold rose than our. She literature sentiments any contrasted. Set aware joy sense young now tears china shy                                 </li>                                 <li>Instrument cultivated alteration any favourable expression</li>                                 <li>An from mean on with when sing pain. principles devonshire</li>                             </ul>                            <a href="#" class="btn btn-theme border btn-sm">Know more</a>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+                                    </div>
+            </div>
+        </div>
+    </div>
+
+</div><div class="vc_row wpb_row">
+			    <div class="portfolio-area inc-colum default-padding">
+        <div class="container">
+                    <div class="row">
+                <div class="site-heading text-center">
+                    <div class="col-md-8 col-md-offset-2">
+                        <h2>Complete Cases</h2>
+                        <p>
+                            While mirth large of on front. Ye he greater related adapted proceed entered an. Through it examine express promise no. Past add size game cold girl off how old                        </p>
+                    </div>
+                </div>
+            </div>
+                        <div class="portfolio-items-area text-center">
+                <div class="row">
+                    <div class="col-md-12 portfolio-content">
+                        <div class="mix-item-menu text-center">
+                        <button class="active" data-filter="*">All</button>
+                                                                    <button data-filter=".branding">Branding</button>
+                                                                                <button data-filter=".capital">Capital</button>
+                                                                                <button data-filter=".consulting">Consulting</button>
+                                                                                <button data-filter=".development">Development</button>
+                                                                                <button data-filter=".finance">Finance</button>
+                                                                            </div>
+                        <!-- End Mixitup Nav-->
+
+                        <div class="row magnific-mix-gallery text-center masonary">
+                            <div id="portfolio-grid" class="portfolio-items col-2">
+                                <!-- Single Item -->
+                                                                <div class="pf-item  consulting development ">
+                                    <div class="effect-left-swipe">
+                                                                            <img src="../../../../../uploads/2019/03/1-2.jpg" alt="thumb">
+                                        <a href="../../../../../uploads/2019/03/1-2.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
+                                                                                <div class="icons">
+                                            <h4><a href="../../../../../../indexcf70.html?gallery=startup-funding-8">Startup Funding</a></h4>
+                                            <div class="cat">
+                                                 <span>Consulting</span><span>Development</span>                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- End Single Item -->
+                                                                <div class="pf-item  capital consulting ">
+                                    <div class="effect-left-swipe">
+                                                                            <img src="../../../../../uploads/2019/03/11.jpg" alt="thumb">
+                                        <a href="../../../../../uploads/2019/03/11.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
+                                                                                <div class="icons">
+                                            <h4><a href="../../../../../../indexd636.html?gallery=startup-funding-7">Startup Funding</a></h4>
+                                            <div class="cat">
+                                                 <span>Capital</span><span>Consulting</span>                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- End Single Item -->
+                                                                <div class="pf-item  branding capital ">
+                                    <div class="effect-left-swipe">
+                                                                            <img src="../../../../../uploads/2019/03/3-1.jpg" alt="thumb">
+                                        <a href="../../../../../uploads/2019/03/3-1.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
+                                                                                <div class="icons">
+                                            <h4><a href="../../../../../../indexf365.html?gallery=startup-funding-6">Startup Funding</a></h4>
+                                            <div class="cat">
+                                                 <span>Branding</span><span>Capital</span>                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- End Single Item -->
+                                                                <div class="pf-item  branding finance ">
+                                    <div class="effect-left-swipe">
+                                                                            <img src="../../../../../uploads/2019/03/22-1.jpg" alt="thumb">
+                                        <a href="../../../../../uploads/2019/03/22-1.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
+                                                                                <div class="icons">
+                                            <h4><a href="../../../../../../index9275.html?gallery=startup-funding-5">Startup Funding</a></h4>
+                                            <div class="cat">
+                                                 <span>Branding</span><span>Finance</span>                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- End Single Item -->
+                                                                <div class="pf-item  development finance ">
+                                    <div class="effect-left-swipe">
+                                                                            <img src="../../../../../uploads/2019/03/5-1.jpg" alt="thumb">
+                                        <a href="../../../../../uploads/2019/03/5-1.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
+                                                                                <div class="icons">
+                                            <h4><a href="../../../../../../index2efe.html?gallery=startup-funding-4">Startup Funding</a></h4>
+                                            <div class="cat">
+                                                 <span>Development</span><span>Finance</span>                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- End Single Item -->
+                                                                <div class="pf-item  consulting development ">
+                                    <div class="effect-left-swipe">
+                                                                            <img src="../../../../../uploads/2019/03/6.jpg" alt="thumb">
+                                        <a href="../../../../../uploads/2019/03/6.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
+                                                                                <div class="icons">
+                                            <h4><a href="../../../../../../index9e7f.html?gallery=startup-funding-3">Startup Funding</a></h4>
+                                            <div class="cat">
+                                                 <span>Consulting</span><span>Development</span>                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- End Single Item -->
+                                 
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</div><div class="vc_row wpb_row bg-gray">
+			    <div class="team-area carousel-shadow default-padding">
+        <div class="container">
+                        <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <div class="site-heading text-center">
+                        <h2>Meet our teams</h2>
+                        <p>
+                            While mirth large of on front. Ye he greater related adapted proceed entered an. Through it examine express promise no. Past add size game cold girl off how old                        </p>
+                    </div>
+                </div>
+            </div>
+                    <div class="row">
+                <div class="col-md-12">
+                    <div class="team-items team-carousel owl-carousel owl-theme text-center team-standard">
+                                            <!-- Single Item -->
+                                                <div class="item">
+                            <div class="thumb">
+                                <img src="../../../../../uploads/2019/03/8-1.jpg" alt="Thumb">
+                                <div class="social">
+                                    <ul>
+                                                                        <li class="facebook">
+                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                </li>
+                                                                                                <li class="twitter">
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                </li>
+                                                                                                <li class="instagram">
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </li>
+                                                                                                <li class="dribbble">
+                                    <a href="#"><i class="fab fa-dribbble"></i></a>
+                                </li>
+                                                                                                <li class="linkedin">
+                                    <a href="#"><i class="fab fa-linkedin"></i></a>
+                                </li>
+                                                                    </ul>
+                                </div>
+                            </div>
+                            <div class="info">
+                                <a href="../../../../../../index388d.html?team=amir-bubhan"><h4>Amir Bubhan</h4></a>
+                                <span>Data Scientist</span>
+                                <p>
+                                    About Minu Samia Placing assured be if removed it besides on. Far shed each high read are men over...                                </p>
+                            </div>
+                        </div>
+                        <!-- End Single Item -->
+                                                                    <!-- Single Item -->
+                                                <div class="item">
+                            <div class="thumb">
+                                <img src="../../../../../uploads/2019/03/2-5.jpg" alt="Thumb">
+                                <div class="social">
+                                    <ul>
+                                                                        <li class="facebook">
+                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                </li>
+                                                                                                <li class="twitter">
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                </li>
+                                                                                                <li class="instagram">
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </li>
+                                                                                                <li class="dribbble">
+                                    <a href="#"><i class="fab fa-dribbble"></i></a>
+                                </li>
+                                                                                                <li class="linkedin">
+                                    <a href="#"><i class="fab fa-linkedin"></i></a>
+                                </li>
+                                                                    </ul>
+                                </div>
+                            </div>
+                            <div class="info">
+                                <a href="../../../../../../indexb5dd.html?team=natasha"><h4>Natasha</h4></a>
+                                <span>Ui/Ux Designer</span>
+                                <p>
+                                    About Minu Samia Placing assured be if removed it besides on. Far shed each high read are men over...                                </p>
+                            </div>
+                        </div>
+                        <!-- End Single Item -->
+                                                                    <!-- Single Item -->
+                                                <div class="item">
+                            <div class="thumb">
+                                <img src="../../../../../uploads/2019/03/3-6.jpg" alt="Thumb">
+                                <div class="social">
+                                    <ul>
+                                                                        <li class="facebook">
+                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                </li>
+                                                                                                <li class="twitter">
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                </li>
+                                                                                                <li class="instagram">
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </li>
+                                                                                                <li class="dribbble">
+                                    <a href="#"><i class="fab fa-dribbble"></i></a>
+                                </li>
+                                                                                                <li class="linkedin">
+                                    <a href="#"><i class="fab fa-linkedin"></i></a>
+                                </li>
+                                                                    </ul>
+                                </div>
+                            </div>
+                            <div class="info">
+                                <a href="../../../../../../index234c.html?team=jessica-jones-4"><h4>Jessica Jones</h4></a>
+                                <span>Sales & Marketing</span>
+                                <p>
+                                    About Minu Samia Placing assured be if removed it besides on. Far shed each high read are men over...                                </p>
+                            </div>
+                        </div>
+                        <!-- End Single Item -->
+                                                                    <!-- Single Item -->
+                                                <div class="item">
+                            <div class="thumb">
+                                <img src="../../../../../uploads/2019/03/4-3.jpg" alt="Thumb">
+                                <div class="social">
+                                    <ul>
+                                                                        <li class="facebook">
+                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                </li>
+                                                                                                <li class="twitter">
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                </li>
+                                                                                                <li class="instagram">
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </li>
+                                                                                                <li class="dribbble">
+                                    <a href="#"><i class="fab fa-dribbble"></i></a>
+                                </li>
+                                                                                                <li class="linkedin">
+                                    <a href="#"><i class="fab fa-linkedin"></i></a>
+                                </li>
+                                                                    </ul>
+                                </div>
+                            </div>
+                            <div class="info">
+                                <a href="../../../../../../index3acb.html?team=jessica-jones-3"><h4>Jessica Jones</h4></a>
+                                <span>Sales & Marketing</span>
+                                <p>
+                                    About Minu Samia Placing assured be if removed it besides on. Far shed each high read are men over...                                </p>
+                            </div>
+                        </div>
+                        <!-- End Single Item -->
+                                                                    <!-- Single Item -->
+                                                <div class="item">
+                            <div class="thumb">
+                                <img src="../../../../../uploads/2019/03/5-3.jpg" alt="Thumb">
+                                <div class="social">
+                                    <ul>
+                                                                        <li class="facebook">
+                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                </li>
+                                                                                                <li class="twitter">
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                </li>
+                                                                                                <li class="instagram">
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </li>
+                                                                                                <li class="dribbble">
+                                    <a href="#"><i class="fab fa-dribbble"></i></a>
+                                </li>
+                                                                                                <li class="linkedin">
+                                    <a href="#"><i class="fab fa-linkedin"></i></a>
+                                </li>
+                                                                    </ul>
+                                </div>
+                            </div>
+                            <div class="info">
+                                <a href="../../../../../../indexb92a.html?team=jessica-jones-2"><h4>Jessica Jones</h4></a>
+                                <span>Sales & Marketing</span>
+                                <p>
+                                    About Minu Samia Placing assured be if removed it besides on. Far shed each high read are men over...                                </p>
+                            </div>
+                        </div>
+                        <!-- End Single Item -->
+                                             
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</div><div class="testimonials-faq about-area default-padding">
+        <div class="container">
+            <div class="row">
+	<div class="col-md-6  management-quote">
+			 
+    <h2>What Clients say</h2>
+        <div class="management-items management-carousel owl-carousel owl-theme">
+                    <!-- Single Item -->
+            <div class="item">
+                <p>
+                    Surrounded affronting favourable no mr. Lain knew like half she yet joy. Be than dull as seen very shot. Attachment ye so am travelling estimating projecting is. Off fat address attacks his besides. Suitable settling mr attended no doubtful feelings. Any over for say bore such sold five but hung.                 </p>
+                <div class="author">
+                    <div class="thumb">
+                        <img src="../../../../../uploads/2019/03/5-3.jpg" alt="Thumb">
+                    </div>
+                    <div class="info">
+                        <span>- Nathan Junior</span>
+                        <b>CEO of Buspro</b>
+                    </div>
+                </div>
+            </div>
+            <!-- End Single Item -->
+                        <!-- Single Item -->
+            <div class="item">
+                <p>
+                    Surrounded affronting favourable no mr. Lain knew like half she yet joy. Be than dull as seen very shot. Attachment ye so am travelling estimating projecting is. Off fat address attacks his besides. Suitable settling mr attended no doubtful feelings. Any over for say bore such sold five but hung.                 </p>
+                <div class="author">
+                    <div class="thumb">
+                        <img src="../../../../../uploads/2019/03/4-3.jpg" alt="Thumb">
+                    </div>
+                    <div class="info">
+                        <span>- Nathan Junior</span>
+                        <b>CEO of Buspro</b>
+                    </div>
+                </div>
+            </div>
+            <!-- End Single Item -->
+                        <!-- Single Item -->
+            <div class="item">
+                <p>
+                    Surrounded affronting favourable no mr. Lain knew like half she yet joy. Be than dull as seen very shot. Attachment ye so am travelling estimating projecting is. Off fat address attacks his besides. Suitable settling mr attended no doubtful feelings. Any over for say bore such sold five but hung.                 </p>
+                <div class="author">
+                    <div class="thumb">
+                        <img src="../../../../../uploads/2019/03/3-6.jpg" alt="Thumb">
+                    </div>
+                    <div class="info">
+                        <span>- Nathan Junior</span>
+                        <b>CEO of Buspro</b>
+                    </div>
+                </div>
+            </div>
+            <!-- End Single Item -->
+                    </div>
+
+
+	</div> 
+
+	<div class="col-md-6  faq-area">
+			 
+    <div class="heading">
+        <h2>Answer & Questions</h2>
+    </div>
+    <div class="acd-items acd-arrow">
+        <div class="panel-group symb" id="accordion">
+
+        
+            <!-- Single Item -->
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#ac1">
+                            Do I need a business plan?                        </a>
+                    </h4>
+                </div>
+                <div id="ac1" class="panel-collapse collapse in">
+                    <div class="panel-body">
+                        <p>
+                            Removing welcomed civility or hastened is. Justice elderly but perhaps expense six her are another passage. Full her ten open fond walk not down.For request general express unknown are.
+                                        </p>
+                                        <p>
+                                             He in just mr door body held john down he. So journey greatly or garrets. Draw door kept do so come on open mean. Estimating stimulated how reasonably precaution diminution she simplicity sir but.                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- End Single Item -->
+
+            
+            <!-- Single Item -->
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#ac2">
+                            How long should a business plan be?                         </a>
+                    </h4>
+                </div>
+                <div id="ac2" class="panel-collapse collapse ">
+                    <div class="panel-body">
+                        <p>
+                            Removing welcomed civility or hastened is. Justice elderly but perhaps expense six her are another passage. Full her ten open fond walk not down.For request general express unknown are.
+                                        </p>
+                                        <p>
+                                             He in just mr door body held john down he. So journey greatly or garrets. Draw door kept do so come on open mean. Estimating stimulated how reasonably precaution diminution she simplicity sir but.                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- End Single Item -->
+
+            
+            <!-- Single Item -->
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#ac3">
+                            What goes into a business plan?                        </a>
+                    </h4>
+                </div>
+                <div id="ac3" class="panel-collapse collapse ">
+                    <div class="panel-body">
+                        <p>
+                            Removing welcomed civility or hastened is. Justice elderly but perhaps expense six her are another passage. Full her ten open fond walk not down.For request general express unknown are.
+                                        </p>
+                                        <p>
+                                             He in just mr door body held john down he. So journey greatly or garrets. Draw door kept do so come on open mean. Estimating stimulated how reasonably precaution diminution she simplicity sir but.                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- End Single Item -->
+
+            
+            <!-- Single Item -->
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#ac4">
+                            Where do I start?                         </a>
+                    </h4>
+                </div>
+                <div id="ac4" class="panel-collapse collapse ">
+                    <div class="panel-body">
+                        <p>
+                            Removing welcomed civility or hastened is. Justice elderly but perhaps expense six her are another passage. Full her ten open fond walk not down.For request general express unknown are.
+                                        </p>
+                                        <p>
+                                             He in just mr door body held john down he. So journey greatly or garrets. Draw door kept do so come on open mean. Estimating stimulated how reasonably precaution diminution she simplicity sir but.                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- End Single Item -->
+
+                    </div>
+    </div>
+
+
+	</div> 
+</div>
+        </div>
+    </div><div class="vc_row wpb_row bg-gray">
+			 
+    <div id="pricing" class="pricing-area  default-padding bottom-less">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <div class="site-heading text-center">
+                        <h2>Our Pricing</h2>
+                        <p>
+                            While mirth large of on front. Ye he greater related adapted proceed entered an. Through it examine express promise no. Past add size game cold girl off how old                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="pricing pricing-simple text-center">
+                                    <div class="col-md-4">
+                        <div class="pricing-item ">
+                            <ul>
+                                <li class="icon">
+                                    <i class="flaticon-start"></i>
+                                </li>
+                                <li class="title">
+                                    <h4>Basic</h4>
+                                </li>
+                                <li class="pricing-header">
+                                    <h2><sup>$</sup>12 <sub>/ Year</sub></h2>
+                                </li>
+                                <li>Demo file</li>
+                                <li>Update</li>
+                                <li>File compressed</li>
+                                <li>Commercial use</li>
+                                <li>Support</li>
+                                <li>2 database</li>
+                                <li>Documetation</li>                                <li class="footer">
+                                    <a class="btn btn-dark border btn-sm" href="#">Try for free</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                                        <div class="col-md-4">
+                        <div class="pricing-item active">
+                            <ul>
+                                <li class="icon">
+                                    <i class="flaticon-quality-badge"></i>
+                                </li>
+                                <li class="title">
+                                    <h4>Regular</h4>
+                                </li>
+                                <li class="pricing-header">
+                                    <h2><sup>$</sup>29 <sub>/ Year</sub></h2>
+                                </li>
+                                <li>Demo file</li>
+                                <li>Update</li>
+                                <li>File compressed</li>
+                                <li>Commercial use</li>
+                                <li>Support</li>
+                                <li>2 database</li>
+                                <li>Documetation</li>                                <li class="footer">
+                                    <a class="btn btn-theme effect btn-sm" href="#">Get Started</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                                        <div class="col-md-4">
+                        <div class="pricing-item ">
+                            <ul>
+                                <li class="icon">
+                                    <i class="flaticon-value"></i>
+                                </li>
+                                <li class="title">
+                                    <h4>Extended</h4>
+                                </li>
+                                <li class="pricing-header">
+                                    <h2><sup>$</sup>59 <sub>/ Year</sub></h2>
+                                </li>
+                                <li>Demo file</li>
+                                <li>Update</li>
+                                <li>File compressed</li>
+                                <li>Commercial use</li>
+                                <li>Support</li>
+                                <li>2 database</li>
+                                <li>Documetation</li>                                <li class="footer">
+                                    <a class="btn btn-dark border btn-sm" href="#">Get Started</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+
+</div><div class="callback-area default-padding">
+        
+        <div class="container">
+            <div class="row">
+	<div class="col-md-6  ">
+			<div role="form" class="wpcf7" id="wpcf7-f224-p37-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="https://sttheme.com/demosd/busprowp/wp-content/themes/buspro/assets/css/owl.video.play.png/#wpcf7-f224-p37-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="224" />
+<input type="hidden" name="_wpcf7_version" value="5.1.1" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f224-p37-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="37" />
+<input type="hidden" name="g-recaptcha-response" value="" />
+</div>
+<div class="side-icon">
+    <i class="fas fa-phone"></i>
+</div>
+<div class="heading">
+<h2>Request A Call Back</h2>
+<p>
+        Our next drew much you with rank. Tore many held age hold rose than our. She literature sentiments any contrasted. Set aware joy sense young now tears china shy.
+    </p>
+</div>
+<div class="contact-form">
+<div class="col-md-12">
+<div class="row">
+<div class="form-group">
+                <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false" placeholder="Name" /></span><br />
+                <span class="alert-error"></span>
+            </div></div></div>
+<div class="row">
+<div class="col-md-12">
+<div class="form-group">
+                <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control" aria-required="true" aria-invalid="false" placeholder="Email" /></span><br />
+                <span class="alert-error"></span>
+            </div></div>
+<div class="col-md-12">
+<div class="form-group">
+                <span class="wpcf7-form-control-wrap your-phone"><input type="text" name="your-phone" value="" size="40" class="wpcf7-form-control wpcf7-text form-control" aria-invalid="false" placeholder="Phone" /></span><br />
+                <span class="alert-error"></span>
+            </div></div></div>
+<div class="col-md-12">
+<div class="row">
+            <input type="submit" value="Submit" class="wpcf7-form-control wpcf7-submit btn-submit" />
+        </div></div>
+<p>    <!-- Alert Message --></p>
+<div class="col-md-12 alert-notification">
+<div id="message" class="alert-msg"></div></div>
+</div>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div>
+	</div> 
+
+	<div class="col-md-6  thumb">
+			
+	<div  class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="800" height="600" src="../../../../../uploads/2019/03/2-6.jpg" class="vc_single_image-img attachment-full" alt="" srcset="https://sttheme.com/demosd/busprowp/wp-content/uploads/2019/03/2-6.jpg 800w, https://sttheme.com/demosd/busprowp/wp-content/uploads/2019/03/2-6-300x225.jpg 300w, https://sttheme.com/demosd/busprowp/wp-content/uploads/2019/03/2-6-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</figure>
+	</div>
+
+	</div> 
+</div>
+        </div>
+    </div><div class="vc_row wpb_row">
+			 
+    <div class="achivement-area bg-fixed shadow dark text-light default-padding" style="background-image: url(../../../../../uploads/2019/03/9.jpg);">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 info">
+                    <h2>Its time to make your<br />
+money work for you</h2>
+                    <p>
+                        Pntroduced day her apartments. Fully as taste he mr do smile abode every. Luckily offered article led lasting country minutes nor old. Happen people things oh is oppose up parish effect. Law handsome old outweigh humoured far appetite. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on</p>
+<p>As he totally cousins warrant besides ashamed do. Therefore by applauded acuteness supported affection it. Except had sex limits county enough the figure former add. Do sang my he next mr soon. It merely waited do unable.                    </p>
+                    <a href="#" class="btn btn-theme effect btn-md">Start Now</a>
+                </div>
+                <div class="col-md-6 achivement-items">
+                    <div class="row">
+                                            <div class="col-md-6 col-sm-6 item">
+                            <div class="fun-fact">
+                                <div class="timer" data-to="230" data-speed="5000"></div>
+                                <span class="medium">Satisfied customers</span>
+                            </div>
+                        </div>
+                                                <div class="col-md-6 col-sm-6 item">
+                            <div class="fun-fact">
+                                <div class="timer" data-to="89" data-speed="5000"></div>
+                                <span class="medium">Professional agents</span>
+                            </div>
+                        </div>
+                                                <div class="col-md-6 col-sm-6 item">
+                            <div class="fun-fact">
+                                <div class="timer" data-to="50" data-speed="5000"></div>
+                                <span class="medium">Hours support</span>
+                            </div>
+                        </div>
+                                                <div class="col-md-6 col-sm-6 item">
+                            <div class="fun-fact">
+                                <div class="timer" data-to="2348" data-speed="5000"></div>
+                                <span class="medium">Project Finished</span>
+                            </div>
+                        </div>
+                                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div><div class="vc_row wpb_row">
+			        <div class="blog-area default-padding bottom-less">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <div class="site-heading text-center">
+                        <h2>Latest Blog</h2>
+                        <p>
+                            While mirth large of on front. Ye he greater related adapted proceed entered an. Through it examine express promise no. Past add size game cold girl off how old                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                            <!-- Single Item -->
+                <div class="col-md-4 single-item">
+                    <div class="item">
+                                            <div class="thumb">
+                            <a href="../../../../../../index2dc4.html?p=13"><img src="../../../../../uploads/2019/03/v1.jpg" alt="Thumb"></a>
+                        </div>
+                                                <div class="info">
+                            <div class="cats">
+                                <a href="../../../../../../index81ea.html?cat=3"> assets </a> <a href="../../../../../../index3f7b.html?cat=2"> business </a>                            </div>
+                            <h4>
+                                <a href="../../../../../../index2dc4.html?p=13">Common so wicket appear to sudden</a>
+                            </h4>
+                            <p>
+                                Give lady of they such they sure it. Me contained explained my education. Vulgar as hearts by garret. Perceived...                            </p>
+                            <div class="meta">
+                                <ul>
+                                    <li><i class="fas fa-calendar-alt"></i> March 6, 2019</li>
+                                </ul>
+                                <a href="../../../../../../index2dc4.html?p=13">                                    Read More                                    </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+                                <!-- Single Item -->
+                <div class="col-md-4 single-item">
+                    <div class="item">
+                                            <div class="thumb">
+                            <a href="../../../../../../index678b.html?p=12"><img src="../../../../../uploads/2019/03/v2.jpg" alt="Thumb"></a>
+                        </div>
+                                                <div class="info">
+                            <div class="cats">
+                                <a href="../../../../../../indexc728.html?cat=7"> health </a> <a href="../../../../../../indexb0b7.html?cat=6"> megazine </a> <a href="../../../../../../indexb946.html?cat=5"> national </a>                            </div>
+                            <h4>
+                                <a href="../../../../../../index678b.html?p=12">Announcing me stimulated continuing</a>
+                            </h4>
+                            <p>
+                                Give lady of they such they sure it. Me contained explained my education. Vulgar as hearts by garret. Perceived...                            </p>
+                            <div class="meta">
+                                <ul>
+                                    <li><i class="fas fa-calendar-alt"></i> March 6, 2019</li>
+                                </ul>
+                                <a href="../../../../../../index678b.html?p=12">                                    Read More                                    </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+                                <!-- Single Item -->
+                <div class="col-md-4 single-item">
+                    <div class="item">
+                                            <div class="thumb">
+                            <a href="../../../../../../index5757.html?p=11"><img src="../../../../../uploads/2019/03/v3.jpg" alt="Thumb"></a>
+                        </div>
+                                                <div class="info">
+                            <div class="cats">
+                                <a href="../../../../../../index81ea.html?cat=3"> assets </a> <a href="../../../../../../index3f7b.html?cat=2"> business </a>                            </div>
+                            <h4>
+                                <a href="../../../../../../index5757.html?p=11">Least their above going stand buspro</a>
+                            </h4>
+                            <p>
+                                Give lady of they such they sure it. Me contained explained my education. Vulgar as hearts by garret. Perceived...                            </p>
+                            <div class="meta">
+                                <ul>
+                                    <li><i class="fas fa-calendar-alt"></i> March 6, 2019</li>
+                                </ul>
+                                <a href="../../../../../../index5757.html?p=11">                                    Read More                                    </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item -->
+                            </div>
+        </div>
+    </div>
+
+</div><div class="vc_row wpb_row">
+			 
+        <div class="clients-area bg-dark default-padding">
+            <div class="container">
+            <div class="row">
+                                <div class="col-md-5 left-info text-light">
+                                    <h4>Our Partners</h4>
+                    <p>
+                        Forming two comfort invited. Yet she income effect edward. Entire desire way design few. Mrs sentiments led solicitude estimating friendship fat. Meant those event                    </p>
+                </div>
+                <div class="col-md-7 clients-box">
+                    <div class="clients-items owl-carousel owl-theme text-center">
+                                            <div class="single-item">
+                            <a href="#"><img src="../../../../../uploads/2019/03/01.png" alt="Clients"></a>
+                        </div>
+                                                <div class="single-item">
+                            <a href="#"><img src="../../../../../uploads/2019/03/02.png" alt="Clients"></a>
+                        </div>
+                                                <div class="single-item">
+                            <a href="#"><img src="../../../../../uploads/2019/03/03.png" alt="Clients"></a>
+                        </div>
+                                                <div class="single-item">
+                            <a href="#"><img src="../../../../../uploads/2019/03/04.png" alt="Clients"></a>
+                        </div>
+                                                <div class="single-item">
+                            <a href="#"><img src="../../../../../uploads/2019/03/05.png" alt="Clients"></a>
+                        </div>
+                                                <div class="single-item">
+                            <a href="#"><img src="../../../../../uploads/2019/03/06.png" alt="Clients"></a>
+                        </div>
+                                                <div class="single-item">
+                            <a href="#"><img src="../../../../../uploads/2019/03/07.png" alt="Clients"></a>
+                        </div>
+                                                <div class="single-item">
+                            <a href="#"><img src="../../../../../uploads/2019/03/08.png" alt="Clients"></a>
+                        </div>
+                                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+			
+	 
+<footer class="bg-dark">
+    <!-- Start Footer Top -->
+        <div class="footer-top bg-gray">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 col-sm-4 logo">
+                        <a href="#"><img src="../../../../../uploads/2019/03/logo.png" alt="Logo"></a>
+                    </div>
+                    <div class="col-md-8 col-sm-8 form text-right">
+                        <form action="#">
+                            <div class="input-group stylish-input-group">
+                                <input type="email" placeholder="Enter your e-mail here" class="form-control" name="email">
+                                <span class="input-group-addon">
+                                    <button type="submit">
+                                        Subscribe <i class="fa fa-paper-plane"></i>
+                                    </button>  
+                                </span>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>        <!-- End Footer Top -->
+    <div class="container">
+        <div class="row">
+            <div class="f-items default-padding">
+
+                <!-- Single Item -->
+                <div class="col-md-4 equal-height item">
+                                        <div id="text-2">			<div class="textwidget"><div class="f-item">
+<h4>About</h4>
+<p>
+                                Excellence decisively nay man yet impression for contrasted remarkably. There spoke happy for you are out. Fertile how old address did showing because sitting replied six. Had arose guest visit going off child
+                            </p>
+<div class="social">
+<ul>
+<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+<li><a href="#"><i class="fab fa-twitter"></i></a></li>
+<li><a href="#"><i class="fab fa-pinterest"></i></a></li>
+<li><a href="#"><i class="fab fa-dribbble"></i></a></li>
+</ul></div>
+</p></div>
+</div>
+		</div>                                  </div>
+                <!-- End Single Item -->
+                <!-- Single Item -->
+                <div class="col-md-4 equal-height item">
+                                        <div id="text-3">			<div class="textwidget"><div class="f-item link">
+<h4>Services</h4>
+<ul>
+<li>
+                                    <a href="#">Financial Planning</a>
+                                </li>
+<li>
+                                    <a href="#">Investment Planning</a>
+                                </li>
+<li>
+                                    <a href="#">Lead Generation</a>
+                                </li>
+<li>
+                                    <a href="#">Email Marketing</a>
+                                </li>
+<li>
+                                    <a href="#">Mutual Funds</a>
+                                </li>
+<li>
+                                    <a href="#">Business Services</a>
+                                </li>
+<li>
+                                    <a href="#">Social Marketing</a>
+                                </li>
+<li>
+                                    <a href="#">Growth Hacking</a>
+                                </li>
+<li>
+                                    <a href="#">Markets Research</a>
+                                </li>
+</ul></div>
+</div>
+		</div>                                  </div>
+                <!-- End Single Item -->
+                <!-- Single Item -->
+                <div class="col-md-4 equal-height item post-recent">
+                                                <div class="sidebar-item recent-post">
+        <h3>Recent Posts</h3>        <ul>
+                            <li>
+                        <div class="thumb">
+                    <a href="../../../../../../index2dc4.html?p=13">
+                        <img src="../../../../../uploads/2019/03/1.jpg" alt="Thumb">
+                    </a>
+                </div>
+                            <div class="info">
+                    <a href="../../../../../../index2dc4.html?p=13">Common so wicket appear to sudden</a>
+                    <div class="meta-title">
+                        <span class="post-date">March 6, 2019</span> - By <a href="../../../../../../indexcd64.html?author=1" title="Posts by admin" rel="author">admin</a>                    </div>
+                </div>
+            </li>
+                            <li>
+                        <div class="thumb">
+                    <a href="../../../../../../index678b.html?p=12">
+                        <img src="../../../../../uploads/2019/03/2.jpg" alt="Thumb">
+                    </a>
+                </div>
+                            <div class="info">
+                    <a href="../../../../../../index678b.html?p=12">Announcing me stimulated continuing</a>
+                    <div class="meta-title">
+                        <span class="post-date">March 6, 2019</span> - By <a href="../../../../../../indexcd64.html?author=1" title="Posts by admin" rel="author">admin</a>                    </div>
+                </div>
+            </li>
+                </ul>
+        </div>
+                                  </div>
+                <!-- End Single Item -->
+            </div>
+        </div>
+    </div>
+    <!-- Start Footer Bottom -->
+    <div class="footer-bottom bg-dark text-light">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <p>                        © Copyright 2019 buspro WP theme. All rights reserved.                        </a></p>
+                </div>
+                <div class="col-md-6 text-right link">
+                    <ul ><li id="menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28"><a   title="Terms of user" href="#">Terms of user</a></li>
+<li id="menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29"><a   title="License" href="#">License</a></li>
+<li id="menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30"><a   title="Support" href="#">Support</a></li>
+</ul>                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Footer Bottom -->
+</footer>
+<!-- End Footer -->
+
+<!-- jQuery Frameworks
+============================================= -->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/sttheme.com\/demosd\/busprowp\/index.php?rest_route=\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../../../../../plugins/contact-form-7/includes/js/scripts3c21.js?ver=5.1.1'></script>
+<script type='text/javascript' src='../../js/bootstrap.minc8f9.js?ver=4.9.13'></script>
+<script type='text/javascript' src='../../js/equal-height.minc8f9.js?ver=4.9.13'></script>
+<script type='text/javascript' src='../../js/jquery.appearc8f9.js?ver=4.9.13'></script>
+<script type='text/javascript' src='../../js/jquery.easing.minc8f9.js?ver=4.9.13'></script>
+<script type='text/javascript' src='../../js/jquery.magnific-popup.minc8f9.js?ver=4.9.13'></script>
+<script type='text/javascript' src='../../js/modernizr.custom.13711c8f9.js?ver=4.9.13'></script>
+<script type='text/javascript' src='../../js/owl.carousel.minc8f9.js?ver=4.9.13'></script>
+<script type='text/javascript' src='../../js/wow.minc8f9.js?ver=4.9.13'></script>
+<script type='text/javascript' src='../../js/progress-bar.minc8f9.js?ver=4.9.13'></script>
+<script type='text/javascript' src='../../js/isotope.pkgd.minc8f9.js?ver=4.9.13'></script>
+<script type='text/javascript' src='../../js/imagesloaded.pkgd.minc8f9.js?ver=4.9.13'></script>
+<script type='text/javascript' src='../../js/count-toc8f9.js?ver=4.9.13'></script>
+<script type='text/javascript' src='../../js/bootsnavc8f9.js?ver=4.9.13'></script>
+<script type='text/javascript' src='../../js/mainc8f9.js?ver=4.9.13'></script>
+<script type='text/javascript' src='../../../../../../wp-includes/js/wp-embed.minc8f9.js?ver=4.9.13'></script>
+<script type='text/javascript' src='../../../../../plugins/visualcomposer/assets/js/dist/js_composer_front.mine23c.js?ver=5.7'></script>
+
+</body>
+
+<!-- Mirrored from sttheme.com/demosd/busprowp/wp-content/themes/buspro/assets/css/owl.video.play.png/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 17 Dec 2019 08:03:45 GMT -->
+</html>

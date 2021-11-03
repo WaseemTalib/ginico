@@ -1,0 +1,101 @@
+@media (max-width: 992px){
+nav.navbar .navbar-brand img.logo {
+    
+       width: 80%;
+    /* margin-right: 100px; */
+    /* margin-left: -68px; */
+    margin-top: 6px;
+   
+    
+    
+    }
+    #suc{
+        float: left !important;
+   margin-top: 0px !important;
+    }
+    
+    .box {
+  
+     min-width: 0px !important;
+    
+    }
+}
+
+
+#suc{
+    margin-top: -55px;
+}
+
+    .form-area{
+background-image: url("../images/Banner.png");
+background-size: contain;
+margin-top: 30px;
+padding-top: 80px;
+background-repeat: no-repeat;
+}
+
+.white-popup-block-form{
+	    background: #ffffff none repeat scroll 0 0;
+  
+    margin: auto;
+    overflow: hidden;
+    padding: 50px 50px;
+    position: relative;
+
+box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.1);
+border-radius: 10px;
+}
+.title{
+	/* font-family: Rubik; */
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 43px;
+}
+.control-label{
+    /* font-family: Poppins; */
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #252631;
+}
+.form-control{
+background: #F5F5F5;
+
+
+border-radius: 8px;
+
+padding: 12px 15px;
+/* font-family: Poppins !important; */
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #98A9BC;
+
+}
+
+.form-button{
+
+padding: 10px 20px;
+    float: right;
+    /*background: #0084FF;*/
+    border-radius: 4px;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-right: 20px;
+
+}
