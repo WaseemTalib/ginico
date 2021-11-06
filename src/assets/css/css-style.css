@@ -5369,3 +5369,12 @@ footer.demo .copyright {
 
     width: 270px;
 }
+
+.form-check-label{
+  padding-top: 3%;
+  padding-left: 5px;
+}
+.form-check, .form-check-no{
+  display: flex;
+  align-items: center;
+}

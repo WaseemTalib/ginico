@@ -1,6 +1,7 @@
 import React from "react";
 
 function Tab1() {
+
   return (
     <>
       <div className="form-group">
@@ -74,10 +75,11 @@ function Tab1() {
                 <label className="form-check-label">Yes</label>
               </div>
             </div>
-            <div className="col-md-6" />
-            <div className="form-check-no">
-              <input className="form-check-input" type="radio" name="flexRadioDefault" defaultChecked />
-              <label className="form-check-label">No</label>
+            <div className="col-md-6">
+              <div className="form-check-no">
+                <input className="form-check-input" type="radio" name="flexRadioDefault" defaultChecked />
+                <label className="form-check-label">No</label>
+              </div>
             </div>
           </div>
         </div>
@@ -98,13 +100,24 @@ function Tab1() {
                 <label className="form-check-label">Yes</label>
               </div>
             </div>
-            <div className="col-md-6" />
-            <div className="form-check-no">
-              <input className="form-check-input" type="radio" name="flexRadioDefault" defaultChecked />
-              <label className="form-check-label">No</label>
+            <div className="col-md-6">
+              <div className="form-check-no">
+                <input className="form-check-input" type="radio" name="flexRadioDefault" defaultChecked />
+                <label className="form-check-label">No</label>
+              </div>
             </div>
           </div>
         </div>
+      </div>
+      <div className="form-group">
+        <button type="submit" className="btn btn-danger form-button" name="form-button" style={{ float: "left" }}>
+          Save and Return Later
+        </button>
+      </div>
+      <div className="form-group">
+        <button type="submit" className="btn btn-success form-button" name="form-button" id="suc">
+          Save and Continue
+        </button>
       </div>
     </>
   );

@@ -60,7 +60,7 @@ function Index() {
                       <div className="user-login-info">
                         <div>
                           <button onClick={myFunction} className="btn btn-success form-button" id="button">
-                            Show Menu
+                            Show Form Sections
                           </button>
                           <div className="tab" id="myDIV">
                             <button className="tablinks" onClick={(event) => openCity(event, "tab1")} id="defaultOpen">

@@ -314,6 +314,16 @@ function Tab2() {
           <input type="text" className="form-control" name="zip" defaultValue required autoFocus />
         </div>
       </div>
+      <div className="form-group">
+        <button type="submit" className="btn btn-danger form-button" name="form-button" style={{ float: "left" }}>
+          Save and Return Later
+        </button>
+      </div>
+      <div className="form-group">
+        <button type="submit" className="btn btn-success form-button" name="form-button" id="suc">
+          Save and Continue
+        </button>
+      </div>
     </>
   );
 }

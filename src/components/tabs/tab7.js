@@ -194,6 +194,16 @@ function Tab7() {
           </select>
         </div>
       </div>
+      <div className="form-group">
+        <button type="submit" className="btn btn-danger form-button" name="form-button" style={{ float: "left" }}>
+          Save and Return Later
+        </button>
+      </div>
+      <div className="form-group">
+        <button type="submit" className="btn btn-success form-button" name="form-button" id="suc">
+          Save and Continue
+        </button>
+      </div>
     </>
   );
 }
